@@ -104,7 +104,7 @@ Installation
 
 Clone the repository:
 
-    git clone <repository-url>
+    git clone https://github.com/Sivasunil03/Employee-Management-System/
     cd project-folder
 
 Install dependencies:
